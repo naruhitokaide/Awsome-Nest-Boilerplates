@@ -91,3 +91,5 @@ This project includes a `docs` folder with more details on:
 For help, discussion about best practices, or any other conversation that would benefit from being searchable:
 
 [Discuss Awesome NestJS Boilerplate on GitHub](https://github.com/NarHakobyan/awesome-nest-boilerplate/discussions)
+
+@KodaKatsuro@gmail.com
